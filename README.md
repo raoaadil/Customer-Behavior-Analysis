@@ -31,6 +31,9 @@ This project is based on customer behavior analysis using Python, MySQL, and Pow
 * `sql_queries.sql` – SQL queries used for analysis
 * `Screenshot.png` – Dashboard screenshot
 
+## Author
+
+Rao Aadil
 
 
 
