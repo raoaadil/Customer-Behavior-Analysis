@@ -31,6 +31,6 @@ This project is based on customer behavior analysis using Python, MySQL, and Pow
 * `sql_queries.sql` – SQL queries used for analysis
 * `Screenshot.png` – Dashboard screenshot
 
-## Dashboard Preview
 
-<img width="799" height="397" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/79f4f25a-88bc-404a-8988-2ac9ae770e39" />
+
+
